@@ -9,19 +9,10 @@ registerForm.addEventListener('submit', function (event) {
     // display success message to user
     const messageH1 = document.querySelector('#message');
     messageH1.textContent = 'Account registered successfully';
+
 });
 
-   
 
-// declareVariableAge
-//let age = 71;
-
-// defineQuareAgeFunction
-// function squareAge(age){
-//     return age** 2;
-// };
-// let squaredAge = squareAge(54);
-// console.log(squaredAge);
 
 
 
